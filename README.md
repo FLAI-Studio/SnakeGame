@@ -11,3 +11,7 @@
 ## 运行方式
 
 确保已安装 Python 3.x，然后：
+
+bash
+
+`python main.py`
